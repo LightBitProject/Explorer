@@ -1,11 +1,9 @@
-Dumb Block Explorer
+Rescue Block Explorer
 =====================================
 
 A trivial block explorer written in a single PHP file.
 
-Demo
--------
-https://bitcointools.jonasschnelli.ch/explorer/
+online https://explorer.lightbit.network/
 
 Features
 -------
